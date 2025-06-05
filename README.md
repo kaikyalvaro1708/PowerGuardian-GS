@@ -9,9 +9,11 @@
 
 # PowerGuardian - Hospital Energia API
 
-Sistema de monitoramento de energia para ambientes hospitalares desenvolvido com Spring Boot.
+API de monitoramento de energia voltada para ambientes hospitalares vulneráveis a desastres naturais.
 
 ## 📋 Sobre o Projeto
+
+O PowerGuardian é uma API desenvolvida para auxiliar hospitais no monitoramento de quedas de energia causadas por eventos climáticos extremos, como tempestades e enchentes. A plataforma possibilita uma gestão eficiente e centralizada das ocorrências, garantindo respostas rápidas e decisões baseadas em dados.
 
 Esta API fornece funcionalidades para monitorar quedas de energia em setores hospitalares, permitindo:
 - Cadastro e gerenciamento de setores
@@ -73,7 +75,7 @@ src/
 
 **Clone o repositório:**
 ```bash
-git clone [seu-repositorio]
+git clone
 cd powerguardian-java
 ```
 
